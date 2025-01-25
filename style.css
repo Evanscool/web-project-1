@@ -1,0 +1,13 @@
+p{color: blue;}
+h1{color: brown;}
+footer{color: brown;}
+
+a{
+    color: rgb(0, 247, 255);
+    transition: all 0.4s linear;
+}
+
+a:hover{
+    color: rgb(255, 0, 191);
+}
+
